@@ -1,0 +1,234 @@
+﻿@model ERP.Project.Data.Models.TrackerItem
+@using ERP.Project.Data.Models;
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+
+@Html.ValidationSummary(true, "", new { @class = "text-danger" ,})
+<h2>Edit Item</h2>
+
+@using (Html.BeginForm("Edit", "Home", FormMethod.Post, new { id = "myForm", enctype = "multipart/form-data" }))
+{
+    <div class="container">
+
+        <div class="row">
+            <div class="row">
+                <div class="col-sm-4 col-sm-offset-2">
+                    <p>
+                        <label for="ID">
+                            Item ID:
+                        </label><br>
+                        @Html.TextBoxFor(model => model.ItemId, new { @class = "form-control", @readonly = "null" })
+                        @Html.ValidationMessageFor(model => model.ItemId, "", new { @class = "text-danger" })
+                    </p>
+                    <p>
+                        <label for="Category">
+                            Item Category:
+                        </label><br>
+                        @Html.DropDownList("ItemCategoryId", (IEnumerable<SelectListItem>)ViewBag.CategoryVB, "--Select Item Category--", new { @class = "form-control" })
+                    </p>
+                    <p>
+                        <label for="Priority">
+                            Priority:
+                        </label><br>
+                        @Html.DropDownList("ItemPriorityId", (IEnumerable<SelectListItem>)ViewBag.ItemPriorityVB, "--Select Type--", new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.ItemPriority)
+                    </p>
+                </div>
+                <div class="col-sm-4">
+                    <p>
+                        <label for="Type">
+                            Project Name:
+                        </label><br>
+                        @Html.TextBoxFor(model => model.ItemProjectId , new { @class = "form-control" })
+                    </p>
+                    <p>
+                        <label for="Type">
+                            Item Type:
+                        </label><br>
+                        @Html.DropDownList("ItemTypeId", (IEnumerable<SelectListItem>)ViewBag.ItemTypeVB, "--Select Type--", new { @class = "form-control" })
+                    </p>
+                    <p>
+                        <label for="ID">
+                            Status:
+                        </label><br>
+                        @Html.DropDownList("ItemStatusId", (IEnumerable<SelectListItem>)ViewBag.ItemStatusVB, "--Select Type--", new { @class = "form-control" })
+
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-10 col-md-offset-2">
+                    <p>
+                        <label for="Summary">
+                            Summary:
+                        </label><br>
+                        @Html.TextArea("ItemSummary", null, new { @class = "form-control", style = "width: 75%; max-width: 72%;" })
+                        @Html.ValidationMessageFor(model => model.ItemSummary)
+                    </p>
+                </div>
+                <div class="col-md-2 "></div>
+            </div>
+            <div class="row">
+                <div class="table-responsive">
+                    <div class="col-md-2 col-md-offset-2"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-2 col-md-offset-2">
+                    <p>
+                        <label for="ID">
+                            Created By:
+                        </label><br>
+
+                        @Html.TextBox("CreatedBy", null, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.CreatedBy)
+                    </p>
+
+                </div>
+                <div class="col-sm-2 ">
+                    <p>
+                        <label for="ID">
+                            Created Date:
+                        </label><br>
+                        @Html.TextBox("ItemCreatedDate", null, new { @Value = DateTime.Now.ToLocalTime(), @class = "form-control", @readonly = "null" })
+                        @Html.ValidationMessageFor(model => model.ItemCreatedDate)
+                    </p>
+
+                </div>
+                <div class="col-sm-2 ">
+                    <p>
+                        <label for="Type">
+                            Parent:
+                        </label><br>
+                        @Html.TextBox("Parent", null, null, new { @class = "form-control", Value = "0" })
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-2 col-md-offset-2">
+                    <p>
+                        <label for="Type">
+                            Assigned To:
+                        </label><br>
+                        @Html.TextBox("AssignedTo", null, null, new { @class = "form-control" })
+                    </p>
+
+                </div>
+                <div class="col-sm-2 ">
+                    <p>
+                        <label for="ID">
+                            Assigned Date:
+                        </label><br>
+                        @Html.TextBox("AssignedDate", null, new { @class = "form-control" })
+                        @*@Html.ValidationMessageFor(model => model.AssignedDate)*@
+                    </p>
+
+                </div>
+                <div class="col-sm-2 ">
+                    <p>
+                        <label for="ID">
+                            End Date:
+                        </label><br>
+                        @Html.TextBox("ItemEndDate", null, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.ItemEndDate)
+                    </p>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-2 col-md-offset-2">
+                    <p>
+                        <label for="ID">
+                            Owner:
+                        </label><br>
+                        @Html.TextBox("Owner", null, new { @class = "form-control" })
+                        @*@Html.ValidationMessageFor(model => model.Owner)*@
+                    </p>
+
+                </div>
+                <div class="col-sm-2 ">
+                    <p>
+                        <label for="ID">
+                            % WorkCompleted:
+                        </label><br>
+                        @Html.TextBox("workCompleted", null, new { @class = "form-control", Value = "0" })
+
+                    </p>
+
+                </div>
+                <div class="col-sm-2 ">
+                    <p>
+                        <label for="ID">
+                            Resolved Date:
+                        </label><br>
+                        @Html.TextBox("ResolvedDate", null, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.ResolvedDate)
+                    </p>
+
+
+
+                </div>
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-2">
+                        <p>
+                            <label for="ID">
+                                Impact:
+                            </label><br>
+                            @Html.TextArea("Impact", null, new { @class = "form-control", style = "width: 75%; max-width: 72%;" })
+                            @*@Html.ValidationMessageFor(model => model.Impact)*@
+                        </p>
+                    </div>
+                    <div class="col-md-2 "></div>
+                </div>
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-2">
+                        <p>
+                            <label for="ID">
+                                Resolution:
+                            </label><br>
+                            @Html.TextArea("Resolution", null, new { @class = "form-control", style = "width: 75%; max-width: 72%;" })
+                            @*@Html.ValidationMessageFor(model => model.Resolution)*@
+                        </p>
+                    </div>
+                    <div class="col-md-2 "></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 col-md-offset-2">
+        </div>
+        <div class="col-md-4 col-md-offset-4">
+            <p>
+                Select a file <input type="file" name="file" class="btn btn-default" />&nbsp<input type="submit" value="Attachment" class="btn btn-default" />
+            </p>
+        </div>
+
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <p>
+
+            </p>
+        </div>
+        <div class="col-md-4">
+            <p>
+                <input type="submit" value="Update" class="btn btn-primary btn-lg" />&nbsp<input type="button" onclick="myFunction()" value="Reset form" class="btn btn-primary btn-lg" />
+            </p>
+            <div class="col-md-4">
+                <p>
+
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+}
+
+
+
+
+

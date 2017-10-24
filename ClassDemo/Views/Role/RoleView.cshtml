@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ERP.Project.Data.Models.Role>
+@using ERP.Project.Data.Models;
+@{
+    ViewBag.Title = "RoleView";
+}
+
+<h2>Role</h2>
+<div>
+    @using (Html.BeginForm("RoleView", "Role"))
+    {
+        <table>
+            <tr>
+                <td>Role &nbsp;</td>
+                <td>@Html.TextBox("UserRole", null, new { @class = "form-control" })</td>
+                <td><input class="btn btn-success" type="submit" value="Add" /></td>
+            </tr>
+        </table>
+        <br />
+    }
+</div>
+
+
+<div style="width:400px;">
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Role </th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.RoleId)</td>
+                    <td>@Html.DisplayFor(modelItem => item.UserRole)</td>
+                    <td>
+                        @Html.ActionLink("Delete", "Delete", new { id = item.RoleId }) |
+                        @Html.ActionLink("Edit", "Edit", new { id = item.RoleId })
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
+
+
+

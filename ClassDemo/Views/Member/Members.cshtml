@@ -1,0 +1,52 @@
+﻿@model IEnumerable<ERP.Project.Data.Models.Member>
+@{
+    ViewBag.Title = "Members";
+}
+
+<h2>Members</h2>
+
+<div class="container">
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Sur Name</th>
+                    <th>Role</th>
+                    <th>Gender</th>
+                    <th>Age</th>
+                    <th>Molie Number</th>
+                    <th>Email Id</th>
+                    <th>User Name</th>
+                    <th>Password</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            @foreach (var m in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(x => m.Name)</td>
+
+                    <td>@Html.DisplayFor(x => m.SurName)</td>
+
+                    <td>@Html.DisplayFor(x => m.Role.UserRole)</td>
+
+                    <td>@Html.DisplayFor(x => m.Gender)</td>
+
+                    <td>@Html.DisplayFor(x => m.age)</td>
+
+                    <td>@Html.DisplayFor(x => m.MobileNumber)</td>
+
+                    <td>@Html.DisplayFor(x => m.EmailId)</td>
+
+                    <td>@Html.DisplayFor(x => m.UserName)</td>
+
+                    <td>@Html.DisplayFor(x => m.Password)</td>
+
+                    <td>@Html.ActionLink("Delete", "Delete", new { id = m.RegId }) |
+                    @Html.ActionLink("Edit", "Edit", new { id = m.RegId })</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

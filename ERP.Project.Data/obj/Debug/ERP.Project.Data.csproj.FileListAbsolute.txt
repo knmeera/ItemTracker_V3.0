@@ -1,0 +1,13 @@
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\obj\Debug\ERP.Project.Data.csproj.CoreCompileInputs.cache
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\bin\Debug\ERP.Project.Data.dll.config
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\bin\Debug\ERP.Project.Data.dll
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\bin\Debug\ERP.Project.Data.pdb
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\bin\Debug\EntityFramework.dll
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\bin\Debug\System.Web.Mvc.dll
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\bin\Debug\EntityFramework.xml
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\obj\Debug\ERP.Project.Data.dll
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\obj\Debug\ERP.Project.Data.pdb
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\obj\Debug\ERP.Project.Data.Migrations.initial.resources
+D:\projects\ItemTracker_V2.0\ERP.Project.Data\obj\Debug\ERP.Project.Data.csproj.GenerateResource.Cache

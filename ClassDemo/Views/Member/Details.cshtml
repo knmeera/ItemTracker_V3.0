@@ -1,0 +1,61 @@
+﻿@model ERP.Project.Data.Models.Member
+    @using ERP.Project.Data.Models
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+@using (Html.BeginForm("Details", "Member"))
+{
+    <table>
+        <tr>@Html.HiddenFor(m => m.RegId, new { @class = "form-control" })</tr>
+        <tr>
+            <td>Name</td>
+            <td>@Html.TextBoxFor(m => m.Name, new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(model => model.Name)</td>
+        </tr>
+        <tr>
+            <td>Sur Name</td>
+            <td>@Html.TextBoxFor(m => m.SurName, new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(model => model.SurName)</td>
+        </tr>
+        <tr>
+            <td>Role</td>
+            <td>@Html.DropDownListFor(m => m.RoleId, (IEnumerable<SelectListItem>)ViewBag.Role, new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(model => model.Role)</td>
+        </tr>
+        <tr>
+            <td>Gender</td>
+            <td>@Html.DropDownListFor(m => m.Gender, new SelectList(Enum.GetValues(typeof(gender))), new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(model => model.Gender)</td>
+        </tr>
+        <tr>
+            <td>Age</td>
+            <td>@Html.TextBoxFor(m => m.age, new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(model => model.age)</td>
+        </tr>
+        <tr>
+            <td>Mobile Number</td>
+            <td>@Html.TextBoxFor(m => m.MobileNumber, new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(model => model.MobileNumber)</td>
+        </tr>
+        <tr>
+            <td>E-mail Id</td>
+            <td>@Html.TextBoxFor(m => m.EmailId, new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(model => model.EmailId)</td>
+        </tr>
+        <tr>
+            <td>User Name</td>
+            <td>@Html.TextBoxFor(m => m.UserName, new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(model => model.UserName)</td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td>@Html.TextBoxFor(m => m.Password, new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(model => model.Password)</td>
+        </tr>
+    </table>
+    <input type="submit" value="save changes" />
+}
+

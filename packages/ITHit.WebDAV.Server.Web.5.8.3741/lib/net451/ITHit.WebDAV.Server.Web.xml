@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ITHit.WebDAV.Server.Web</name>
+    </assembly>
+    <members>
+        <member name="T:ITHit.WebDAV.Server.DavContextWebBaseAsync">
+            <summary>
+            Base class for WebDAV context used in IIS-based server.
+            </summary>
+            <remarks>
+            Provides constructor that takes <see cref="T:System.Web.HttpContext"/>.
+            </remarks>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.DavContextWebBaseAsync.#ctor(System.Web.HttpContext)">
+            <summary>
+            Initializes context for IIS/ASP.NET based server.
+            </summary>
+            <param name="context">An ASP.NET <see cref="T:System.Web.HttpContext" /> object.</param>
+            <remarks>
+            <para>
+            You must create a new context in each request to your WebDAV server passing ASP.NET context.
+            </para>
+            <para>
+            This method instance is optimized for processing requests in IIS/ASP.NET-based server.
+            </para>
+            </remarks>
+            <!-- Failed to insert some or all of included XML --><include file="Comments\Generated.xml" path="doc/example[@name=&quot;IHttpHandlerAsync&quot;]/*" />
+        </member>
+        <member name="T:ITHit.WebDAV.Server.Extensibility.IisRequest">
+            <summary>
+            Represents an incoming HTTP request for IIS-hosted server.
+            </summary>
+        </member>
+        <member name="T:ITHit.WebDAV.Server.Extensibility.IisResponse">
+            <summary>
+            Represents HTTP response for IIS-hosted server.
+            </summary>
+        </member>
+        <member name="T:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadContext">
+            <summary>
+            Contains stream of data in case of POST and PUT when <see cref="T:ITHit.WebDAV.Server.ResumableUpload.PutUploadProgressAndResumeModule"/> is used.
+            </summary>
+            <exclude/>
+        </member>
+        <member name="P:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadContext.IsAvailable">
+            <summary>
+            Determines if <see cref="T:ITHit.WebDAV.Server.ResumableUpload.PutUploadProgressAndResumeModule"/> is used and <see cref="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadContext.GetStream"/>
+            method can be called.
+            </summary>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadContext.GetStream">
+            <summary>
+            Returns content stream of current request.
+            </summary>
+            <returns>Content stream.</returns>
+        </member>
+        <member name="T:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.#ctor(System.Web.HttpWorkerRequest)">
+            <summary>   
+            Constructor.   
+            </summary>   
+            <param name="request">The original worker request.</param>           
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.ReadEntityBody(System.Byte[],System.Int32)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetTotalEntityBodyLength">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetPreloadedEntityBody(System.Byte[],System.Int32)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetPreloadedEntityBody">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetUriPath">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetQueryString">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetRawUrl">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetHttpVerbName">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetHttpVersion">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetRemoteAddress">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetRemotePort">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetLocalAddress">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetLocalPort">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetPreloadedEntityBodyLength">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.ReadEntityBody(System.Byte[],System.Int32,System.Int32)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetKnownRequestHeader(System.Int32)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetAppPathTranslated">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.SendStatus(System.Int32,System.String)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.SendKnownResponseHeader(System.Int32,System.String)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.SendUnknownResponseHeader(System.String,System.String)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.SendResponseFromMemory(System.Byte[],System.Int32)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.SendResponseFromFile(System.String,System.Int64,System.Int64)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.SendResponseFromFile(System.IntPtr,System.Int64,System.Int64)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.FlushResponse(System.Boolean)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.EndOfRequest">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.IsEntireEntityBodyIsPreloaded">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.CloseConnection">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetQueryStringRawBytes">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetRemoteName">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetServerName">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetConnectionID">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetUrlContextID">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetAppPoolID">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetRequestReason">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetUserToken">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetVirtualPathToken">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.IsSecure">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetProtocol">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetFilePath">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetFilePathTranslated">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetPathInfo">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetAppPath">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetUnknownRequestHeader(System.String)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetUnknownRequestHeaders">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetServerVariable(System.String)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetBytesRead">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.MapPath(System.String)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.SendResponseFromMemory(System.IntPtr,System.Int32)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.SetEndOfSendNotification(System.Web.HttpWorkerRequest.EndOfSendNotification,System.Object)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.SendCalculatedContentLength(System.Int32)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.SendCalculatedContentLength(System.Int64)">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.HeadersSent">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.IsClientConnected">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetClientCertificate">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetClientCertificateValidFrom">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetClientCertificateValidUntil">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetClientCertificateBinaryIssuer">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetClientCertificateEncoding">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.GetClientCertificatePublicKey">
+            <exclude/>
+        </member>
+        <member name="P:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.MachineConfigPath">
+            <exclude/>
+        </member>
+        <member name="P:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.RootWebConfigPath">
+            <exclude/>
+        </member>
+        <member name="P:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.MachineInstallDirectory">
+            <exclude/>
+        </member>
+        <member name="P:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.RequestTraceIdentifier">
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.Impl.ResumableUpload.UploadWorkerRequest.ToString">
+            <exclude/>
+        </member>
+        <member name="T:ITHit.WebDAV.Server.PostUploadProgressModule">
+            <summary>
+            Enables POST upload with progress of files to IIS/ASP.NET.
+            </summary>
+            <remarks>
+            <para>
+            You need to use this module if you are using AJAX File Browser with Internet Explorer 9 and earlier.
+            </para>
+            </remarks>
+            <example>
+                Example of configuration for IIS:
+            <code>
+            <![CDATA[
+                <httpModules>
+                    <remove name="FileAuthorization"/>
+                    <add 
+                        name="PostUploadProgressModule"
+                        type="ITHit.WebDAV.Server.PostUploadProgressModule, ITHit.WebDAV.Server" />
+                </httpModules>
+            ]]>
+            </code>
+            </example>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.PostUploadProgressModule.Init(System.Web.HttpApplication)">
+            <summary>
+            Initializes a module and prepares it to handle requests.
+            </summary>
+            <param name="context">An <see cref="T:System.Web.HttpApplication"></see> that provides access to the
+             methods, properties, and events common to all application objects within an ASP.NET application </param>
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.PostUploadProgressModule.Dispose">
+            <summary>
+            Disposes of the files (other than memory) used by the module that implements
+            <see cref="T:System.Web.IHttpModule"></see>.
+            </summary>
+            <exclude/>
+        </member>
+        <member name="T:ITHit.WebDAV.Server.ResumableUpload.PutUploadProgressAndResumeModule">
+            <summary>
+            Enables non-cached upload of files to IIS/ASP.NET.
+            </summary>
+            <remarks>
+            <para>
+            Always use this module if you implement resumable upload features and your WebDAV server is hosted in 
+            application that uses ASP.NET 2.0 pool. It is recommended to enable this module even if you do not need any resumable upload fetures but 
+            host your server is using ASP.NET 2.0 pool. This module is not required for application running in ASP.NET 4.0 pool or later and is ignored if enabled.
+            </para>
+            <para>
+            Without this module when a file is being uploaded to the server running as ASP.NET application with 2.0 pool, the file 
+            will be first saved to temporary upload folder. Only when entire file is uploaded it becomes available for .NET
+            user code. <see cref="T:ITHit.WebDAV.Server.ResumableUpload.PutUploadProgressAndResumeModule"/> eliminates this 
+            problem passing file content directly to Engine. This problem is specific to ASP.NET/IIS and you do not need 
+            this module when creating HttpListener-based server or if you are using ASP.NET 4.0 pool.
+            </para>
+            <para>
+            <b>Note</b>: Always use <see cref="!:DavContextBaseAsync(HttpContext)"/> overloaded constructor when utilizing 
+            this module.
+            </para>
+            </remarks>
+            <example>
+            <para>Example of configuraiton for IIS 8 integrated mode and IIS 7.x integrated mode:</para>
+            <code>
+            <![CDATA[
+            <system.webServer>
+                <modules>
+                    <add 
+                        name="PutUploadProgressAndResumeModule"
+                        type="ITHit.WebDAV.Server.ResumableUpload.PutUploadProgressAndResumeModule, ITHit.WebDAV.Server"
+                        preCondition="integratedMode" />
+                </modules>
+            </system.webServer>
+             ]]>
+            </code>
+            </example>
+            <example>
+                Example of configuration for IIS 8 classic mode, IIS 7.x classic mode, IIS 6 and IIS 5.1:
+            <code>
+            <![CDATA[
+            <system.web>
+                <httpModules>
+                    <remove name="FileAuthorization"/>
+                    <add 
+                        name="PutUploadProgressAndResumeModule"
+                        type="ITHit.WebDAV.Server.ResumableUpload.PutUploadProgressAndResumeModule, ITHit.WebDAV.Server" />
+                </httpModules>
+            </system.web>
+            ]]>
+            </code>
+            </example>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.ResumableUpload.PutUploadProgressAndResumeModule.Init(System.Web.HttpApplication)">
+            <summary>
+            Initializes a module and prepares it to handle requests.
+            </summary>
+            <param name="context">An <see cref="T:System.Web.HttpApplication"></see> that provides access to the
+            methods, properties, and events common to all application objects within an ASP.NET application </param>
+            <exclude/>
+        </member>
+        <member name="M:ITHit.WebDAV.Server.ResumableUpload.PutUploadProgressAndResumeModule.Dispose">
+            <summary>
+            Disposes of the files (other than memory) used by the module that implements 
+            <see cref="T:System.Web.IHttpModule"/>.
+            </summary>
+            <exclude/>
+        </member>
+    </members>
+</doc>

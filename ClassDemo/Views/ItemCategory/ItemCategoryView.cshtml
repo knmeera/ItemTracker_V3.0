@@ -1,0 +1,52 @@
+﻿    @model IEnumerable<ERP.Project.Data.Models.ItemCategory>
+@using ERP.Project.Data.Models;
+
+    @{
+        ViewBag.Title = "ItemCategoryView";
+
+    }
+
+    <h2>Item Category</h2>
+
+
+<div>
+    @using (Html.BeginForm("ItemCategoryView", "ItemCategory"))
+    {
+        <table>
+            <tr>
+                <td>Item Category Name &nbsp;</td>
+                <td>@Html.TextBox("CategoryName", null, new { @class = "form-control" })</td>
+                <td>@Html.DropDownList("ColorCode", (IEnumerable<SelectListItem>)ViewBag.ColorCode, "--Color Code--  ", new { @class = "form-control" })</td>
+                <td><input class="btn btn-success" type="submit" value="Add" /></td>
+            </tr>
+        </table>
+        <br />
+    }
+</div>
+
+
+    <div style="width:400px;">
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Item Category </th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                @foreach (var item in Model)
+            {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.CategoryId)</td>
+                        <td style="background-color:@Html.DisplayFor(modelItem => item.ColorCode)">@Html.DisplayFor(modelItem => item.CategoryName)</td>
+                        <td>
+                        @Html.ActionLink("Delete", "Delete", new { id = item.CategoryId }) |
+                        @Html.ActionLink("Edit", "Edit", new { id = item.CategoryId })
+                    </td>
+                </tr>
+                }
+            </table>
+        </div>
+    </div>
+

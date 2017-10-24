@@ -1,0 +1,24 @@
+﻿@model ERP.Project.Data.Models.Role
+@using ERP.Project.Data.Models
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+<div>
+    @using (Html.BeginForm("Edit", "Role"))
+    {
+        <table>
+            <tr>
+                <td>Id</td>
+                <td>@Html.TextBoxFor(m=>m.RoleId, new { @class = "form-control", @readonly="null" })</td>
+            </tr>
+            <tr>
+                <td>Role &nbsp;</td>
+                <td>@Html.TextBoxFor(m=>m.UserRole, null, new { @class = "form-control" })</td>
+            </tr>
+        </table>
+        <br />
+        <input class="btn btn-success" type="submit" value="Update" />    
+    }
+</div>

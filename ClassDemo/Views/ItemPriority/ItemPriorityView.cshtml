@@ -1,0 +1,48 @@
+﻿@model IEnumerable<ERP.Project.Data.Models.ItemPriority>
+@using ERP.Project.Data.Models;
+
+@{
+    ViewBag.Title = "ItemPriorityView";
+}
+
+<h2>Item Priority</h2>
+
+<div>
+    @using (Html.BeginForm("ItemPriorityView", "ItemPriority"))
+    {
+        <table>
+            <tr>
+                <td>Item Priority Name &nbsp;</td>
+                <td>@Html.TextBox("PriorityName", null, new { @class = "form-control" })</td>
+                <td>@Html.DropDownList("ColorCode", (IEnumerable<SelectListItem>)ViewBag.ColorCode, "--Color Code-- ", new { @class = "form-control" })</td>
+                <td><input class="btn btn-success" type="submit" value="Add" /></td>
+            </tr>
+        </table>
+       
+    }
+</div>
+<br />
+<div style="width:400px;">
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Item Priority </th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.PriorityId)</td>
+                    <td style="background-color:@Html.DisplayFor(modelItem => item.ColorCode)">@Html.DisplayFor(modelItem => item.PriorityName)</td>
+                    <td>
+                        @Html.ActionLink("Delete", "Delete", new { id = item.PriorityId }) |
+                        @Html.ActionLink("Edit", "Edit", new { id = item.PriorityId })
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

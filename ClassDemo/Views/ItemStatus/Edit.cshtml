@@ -1,0 +1,29 @@
+﻿@model ERP.Project.Data.Models.ItemStatus
+@using ERP.Project.Data.Models;
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+<div>
+    @using (Html.BeginForm("Edit", "ItemStatus"))
+    {
+        <table>
+            <tr>
+                <td>Item Status Id</td>
+                <td>@Html.TextBoxFor(m => m.ItemStatusId, new { @class = "form-control", @readonly = "null" })</td>
+                
+            </tr>
+            <tr>
+                <td>Color Code</td>
+                <td>@Html.DropDownList("ColorCode", (IEnumerable<SelectListItem>)ViewBag.ColorCode, "--Color Code-- ", new { @class = "form-control" })</td>
+            </tr>
+            <tr>
+                <td>Item Status Name</td>
+                <td>@Html.TextBoxFor(m=>m.ItemStatusName, new { @class = "form-control" })</td>
+            </tr>
+        </table>
+        <input class="btn btn-success" type="submit" value="Update" />
+    }
+</div>

@@ -1,0 +1,14 @@
+﻿body {
+}
+.Low{
+    color:white;
+    background-color:greenyellow;
+}
+.High{
+    color:white;
+    background-color:red;
+}
+.Medium{
+    color:white;
+    background-color:orange;
+}

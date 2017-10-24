@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete Confirmation</h2>
+
+<p>Do you want to  delete this Item  @ViewBag.DeleteMessage</p>
+ @using (Html.BeginForm("Delete", "Home", FormMethod.Post))
+ {   
+    <input type="hidden" name="ItemId" value=@ViewBag.ItemId />
+    <input type="submit" value="Delete Item" class="btn btn-primary btn-lg" />
+ }
+ <p>@ViewBag.DeleteConfirmation</p>

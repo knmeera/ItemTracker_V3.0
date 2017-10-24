@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ERP.Project.Data.Models.project>
+@using ERP.Project.Data.Models;
+
+@{
+    ViewBag.Title = "ProjectView";
+}
+
+<h2>Project</h2>
+
+<div>
+    @using (Html.BeginForm("ProjectView", "Project"))
+    {
+        <table>
+            <tr>
+                <td>Project Name</td>
+                <td>@Html.TextBox("ProjectName", null, new { @class = "form-control" })</td>
+                <td><input class="btn btn-success" type="submit" value="Add" /></td>
+            </tr>
+        </table>
+        
+    }
+</div>
+<br />
+<div style="width:400px;">
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Project Name </th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.ProjectId)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ProjectName)</td>
+                    <td>
+                        @Html.ActionLink("Delete", "Delete", new { id = item.ProjectId }) |
+                        @Html.ActionLink("Edit", "Edit", new { id = item.ProjectId })
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

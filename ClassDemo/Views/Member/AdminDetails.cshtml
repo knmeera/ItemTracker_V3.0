@@ -1,0 +1,24 @@
+﻿@model ERP.Project.Data.Models.Login
+@using ERP.Project.Data.Models;
+@{
+    ViewBag.Title = "AdminDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AdminDetails</h2>
+@using (Html.BeginForm("AdminDetails", "Member"))
+{
+<table>
+    <tr>@Html.HiddenFor(m=>m.Id)</tr>
+    <tr>
+        <td>User Name</td>
+        <td>@Html.TextBoxFor(m => m.username, new { @class = "form-control" })</td>
+    </tr>
+    <tr>
+        <td>Password</td>
+        <td>@Html.PasswordFor(m => m.password, new { @class = "form-control" })</td>
+    </tr>
+</table>
+<input type="submit" value="Save Changes" />
+}
+

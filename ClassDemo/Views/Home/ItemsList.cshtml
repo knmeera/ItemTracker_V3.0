@@ -1,0 +1,135 @@
+﻿@model  IEnumerable<ERP.Project.Data.Models.TrackerItem>
+@using ERP.Project.Data.Models;
+
+@{
+    ViewBag.Title = "ItemsList";
+}
+
+
+<h2>Items List <span>@Html.ActionLink("Add", "CreateItem") </span></h2>
+<div style=" background-color:#222;padding-left:1em;border-radius:8px 8px;padding-top:1em;padding-bottom:1em;height:140px;">
+    <h2 style="font-size:16px;font-family:'Segoe UI';font-weight:900; margin-left:20px;"> Filter</h2>
+    <div>
+        @using (Html.BeginForm("ItemsList", "Home", FormMethod.Post))
+        {
+            <p class="col col-sm-2">
+                @Html.DropDownList("ItemProjectId", (IEnumerable<SelectListItem>)ViewBag.Project, "- Project -", new { @class = "form-control" })
+            </p>
+            <p class="col col-sm-2">
+                @Html.DropDownList("ItemPriorityId", (IEnumerable<SelectListItem>)ViewBag.ItemPriorityVB,"- Priority -", new { @class = "form-control" })
+            </p>
+            <p class="col col-sm-2">
+                @Html.DropDownList("ItemStatusId", (IEnumerable<SelectListItem>)ViewBag.ItemStatusVB, "- Status -", new { @class = "form-control" })
+            </p>
+            <p class="col col-sm-2">
+                @Html.DropDownList("ItemTypeId", (IEnumerable<SelectListItem>)ViewBag.ItemTypeVB, "- Item Type -", new { @class = "form-control" })
+            </p>
+            <p class="col col-sm-2">
+                @Html.DropDownList("ItemCategoryId", (IEnumerable<SelectListItem>)ViewBag.CategoryVB, "- Category -", new { @class = "form-control" })
+            </p>
+            
+            <input class="col col-sm-1 btn btn-success" type="submit" value="filter" />
+        }
+    </div>
+</div>
+<div class="container">
+    <div class="table-responsive">
+
+        <table class="table">
+
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Project Id</th>
+                    <th>Summary</th>
+                    <th>Priority</th>
+                    <th>Type</th>
+                    <th>Status</th>
+                    <th>Created Date</th>
+                    <th>Assigned Date</th>
+                    <th>Resolved Date</th>
+                    <th>End Date</th>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ItemId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.project.ProjectName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ItemSummary)
+                    </td>
+
+                    <td style="background-color:@Html.DisplayFor(modelItem => item.ItemPriority.ColorCode)">
+                        @Html.DisplayFor(modelItem => item.ItemPriority.PriorityName)
+                    </td>
+
+                    <td style="background-color:@Html.DisplayFor(modelItem => item.ItemType.ColorCode)">
+                        @Html.DisplayFor(modelItem => item.ItemType.ItemName)
+                    </td>
+
+                    <td style="background-color:@Html.DisplayFor(modelItem => item.ItemStatus.ColorCode)">
+                        @Html.DisplayFor(modelItem => item.ItemStatus.ItemStatusName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modeltem => item.ItemCreatedDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelAssignedDate => item.AssignedDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(ModelResolvedDate => item.ResolvedDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ItemEndDate)
+                    </td>
+                    @*<td>
+                        @* Image Name Display *@
+                    @*@Html.DisplayFor(modelItem => item.AttachmentPath)*@
+
+                    @* Image  Display *@
+                    @*<img src="@Url.Content(string.Format("~/Content/upload_attachements/{0}",item.AttachmentPath))" height="150" width="150" />
+
+                        </td>*@
+
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.ItemId }) |
+                        @Html.ActionLink("Details", "DetailsView", new { id = item.ItemId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.ItemId })
+
+                        @*<a href="#" onclick="return deleteItemById(@item.ItemId )">Delete</a>*@
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+
+<script>
+
+ function deleteItemById(id) {
+        var cnf = confirm("Do you want delete this record! "+ id);
+
+        if (cnf == true) {
+            $.ajax({
+                type: "GET",
+                contentType: "application/json; charset=utf-8",
+                url: '@Url.Action("Delete", "Home")',
+                data: "ID=" + id,
+                dataType: "json",
+                success: function (data) {
+                    alert(data.message);
+
+                },
+                error: function (error) {
+                    alert(error);
+                }
+            });
+        }
+      }
+</script>

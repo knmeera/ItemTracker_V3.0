@@ -1,0 +1,657 @@
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\ApplicationInsights.config
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\csc.exe
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\csc.exe.config
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\csc.rsp
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\csi.exe
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\csi.rsp
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\System.AppContext.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\System.IO.FileSystem.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\vbc.exe
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\vbc.exe.config
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\vbc.rsp
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\VBCSCompiler.exe
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\ClassDemo.dll.config
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\ClassDemo.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\ClassDemo.pdb
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Antlr3.Runtime.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.AI.DependencyCollector.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.AI.Web.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.AI.WindowsServer.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.ApplicationInsights.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Newtonsoft.Json.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.Helpers.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.Mvc.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.Optimization.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.Razor.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.WebPages.Deployment.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.WebPages.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.WebPages.Razor.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\WebGrease.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.Helpers.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.Mvc.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.Optimization.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.Razor.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.WebPages.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.WebPages.Deployment.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\System.Web.WebPages.Razor.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Antlr3.Runtime.pdb
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Newtonsoft.Json.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.ApplicationInsights.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.AI.DependencyCollector.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.AI.WindowsServer.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\bin\Microsoft.AI.Web.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\obj\Debug\ClassDemo.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\obj\Debug\ClassDemo.pdb
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ClassDemo\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+D:\ItemTracker\ClassDemo\bin\ApplicationInsights.config
+D:\ItemTracker\ClassDemo\bin\roslyn\csc.exe
+D:\ItemTracker\ClassDemo\bin\roslyn\csc.exe.config
+D:\ItemTracker\ClassDemo\bin\roslyn\csc.rsp
+D:\ItemTracker\ClassDemo\bin\roslyn\csi.exe
+D:\ItemTracker\ClassDemo\bin\roslyn\csi.rsp
+D:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ItemTracker\ClassDemo\bin\roslyn\System.AppContext.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\ItemTracker\ClassDemo\bin\roslyn\vbc.exe
+D:\ItemTracker\ClassDemo\bin\roslyn\vbc.exe.config
+D:\ItemTracker\ClassDemo\bin\roslyn\vbc.rsp
+D:\ItemTracker\ClassDemo\bin\roslyn\VBCSCompiler.exe
+D:\ItemTracker\ClassDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\ItemTracker\ClassDemo\bin\ClassDemo.dll.config
+D:\ItemTracker\ClassDemo\bin\ClassDemo.dll
+D:\ItemTracker\ClassDemo\bin\ClassDemo.pdb
+D:\ItemTracker\ClassDemo\bin\Antlr3.Runtime.dll
+D:\ItemTracker\ClassDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ItemTracker\ClassDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\ItemTracker\ClassDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ItemTracker\ClassDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ItemTracker\ClassDemo\bin\Microsoft.AI.Web.dll
+D:\ItemTracker\ClassDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\ItemTracker\ClassDemo\bin\Microsoft.ApplicationInsights.dll
+D:\ItemTracker\ClassDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ItemTracker\ClassDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\ItemTracker\ClassDemo\bin\Newtonsoft.Json.dll
+D:\ItemTracker\ClassDemo\bin\System.Web.Helpers.dll
+D:\ItemTracker\ClassDemo\bin\System.Web.Mvc.dll
+D:\ItemTracker\ClassDemo\bin\System.Web.Optimization.dll
+D:\ItemTracker\ClassDemo\bin\System.Web.Razor.dll
+D:\ItemTracker\ClassDemo\bin\System.Web.WebPages.Deployment.dll
+D:\ItemTracker\ClassDemo\bin\System.Web.WebPages.dll
+D:\ItemTracker\ClassDemo\bin\System.Web.WebPages.Razor.dll
+D:\ItemTracker\ClassDemo\bin\WebGrease.dll
+D:\ItemTracker\ClassDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ItemTracker\ClassDemo\bin\System.Web.Helpers.xml
+D:\ItemTracker\ClassDemo\bin\System.Web.Mvc.xml
+D:\ItemTracker\ClassDemo\bin\System.Web.Optimization.xml
+D:\ItemTracker\ClassDemo\bin\System.Web.Razor.xml
+D:\ItemTracker\ClassDemo\bin\System.Web.WebPages.xml
+D:\ItemTracker\ClassDemo\bin\System.Web.WebPages.Deployment.xml
+D:\ItemTracker\ClassDemo\bin\System.Web.WebPages.Razor.xml
+D:\ItemTracker\ClassDemo\bin\Antlr3.Runtime.pdb
+D:\ItemTracker\ClassDemo\bin\Newtonsoft.Json.xml
+D:\ItemTracker\ClassDemo\bin\Microsoft.ApplicationInsights.xml
+D:\ItemTracker\ClassDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\ItemTracker\ClassDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ItemTracker\ClassDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\ItemTracker\ClassDemo\bin\Microsoft.AI.Web.xml
+D:\ItemTracker\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+D:\ItemTracker\ClassDemo\obj\Debug\ClassDemo.dll
+D:\ItemTracker\ClassDemo\obj\Debug\ClassDemo.pdb
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\ApplicationInsights.config
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\csc.exe
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\csc.exe.config
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\csc.rsp
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\csi.exe
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\csi.rsp
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\System.AppContext.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\System.IO.FileSystem.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\vbc.exe
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\vbc.exe.config
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\vbc.rsp
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\VBCSCompiler.exe
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\ClassDemo.dll.config
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\ClassDemo.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\ClassDemo.pdb
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Antlr3.Runtime.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.AI.DependencyCollector.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.AI.Web.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.AI.WindowsServer.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.ApplicationInsights.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Newtonsoft.Json.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.Helpers.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.Mvc.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.Optimization.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.Razor.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.WebPages.Deployment.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.WebPages.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.WebPages.Razor.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\WebGrease.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.Helpers.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.Mvc.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.Optimization.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.Razor.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.WebPages.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.WebPages.Deployment.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\System.Web.WebPages.Razor.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Antlr3.Runtime.pdb
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Newtonsoft.Json.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.ApplicationInsights.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.AI.DependencyCollector.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.AI.WindowsServer.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\bin\Microsoft.AI.Web.xml
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\obj\Debug\ClassDemo.dll
+E:\Prassaad\MyDocs\Training\MVCExamples\Batch-MVC-Jul-Examples\ItemTracker1\ClassDemo\obj\Debug\ClassDemo.pdb
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\ApplicationInsights.config
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\csc.exe
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\csc.exe.config
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\csc.rsp
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\csi.exe
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\csi.rsp
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\System.AppContext.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\vbc.exe
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\vbc.exe.config
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\vbc.rsp
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\ClassDemo.dll.config
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\ClassDemo.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\ClassDemo.pdb
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\System.Web.Helpers.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\System.Web.Mvc.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\System.Web.Optimization.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\System.Web.Razor.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\System.Web.WebPages.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\Antlr3.Runtime.pdb
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\Newtonsoft.Json.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\bin\Microsoft.AI.Web.xml
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\obj\Debug\ClassDemo.dll
+C:\Users\udays\Desktop\coetl\ItemTracker\ClassDemo\obj\Debug\ClassDemo.pdb
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\ApplicationInsights.config
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\csc.exe
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\csc.exe.config
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\csc.rsp
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\csi.exe
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\csi.rsp
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\System.AppContext.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\vbc.exe
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\vbc.exe.config
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\vbc.rsp
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\ClassDemo.dll.config
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\ClassDemo.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\ClassDemo.pdb
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\obj\Debug\ClassDemo.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\obj\Debug\ClassDemo.pdb
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\EntityFramework.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\EntityFramework.xml
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\bin\EntityFramework.SqlServer.xml
+E:\ItemTracker\ClassDemo\bin\ApplicationInsights.config
+E:\ItemTracker\ClassDemo\bin\roslyn\csc.exe
+E:\ItemTracker\ClassDemo\bin\roslyn\csc.exe.config
+E:\ItemTracker\ClassDemo\bin\roslyn\csc.rsp
+E:\ItemTracker\ClassDemo\bin\roslyn\csi.exe
+E:\ItemTracker\ClassDemo\bin\roslyn\csi.rsp
+E:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ItemTracker\ClassDemo\bin\roslyn\System.AppContext.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\System.IO.FileSystem.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\ItemTracker\ClassDemo\bin\roslyn\vbc.exe
+E:\ItemTracker\ClassDemo\bin\roslyn\vbc.exe.config
+E:\ItemTracker\ClassDemo\bin\roslyn\vbc.rsp
+E:\ItemTracker\ClassDemo\bin\roslyn\VBCSCompiler.exe
+E:\ItemTracker\ClassDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\ItemTracker\ClassDemo\bin\ClassDemo.dll.config
+E:\ItemTracker\ClassDemo\bin\ClassDemo.dll
+E:\ItemTracker\ClassDemo\bin\ClassDemo.pdb
+E:\ItemTracker\ClassDemo\bin\EntityFramework.dll
+E:\ItemTracker\ClassDemo\bin\EntityFramework.SqlServer.dll
+E:\ItemTracker\ClassDemo\bin\EntityFramework.xml
+E:\ItemTracker\ClassDemo\bin\EntityFramework.SqlServer.xml
+E:\ItemTracker\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+E:\ItemTracker\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+E:\ItemTracker\ClassDemo\obj\Debug\ClassDemo.dll
+E:\ItemTracker\ClassDemo\obj\Debug\ClassDemo.pdb
+E:\ItemTracker\ClassDemo\obj\Debug\ClassDemo.Migrations.Initial.resources
+E:\ItemTracker\ClassDemo\obj\Debug\ClassDemo.csproj.GenerateResource.Cache
+E:\ItemTracker\ClassDemo\obj\Debug\ClassDemo.Migrations.Initial1.resources
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\obj\Debug\ClassDemo.Migrations.initial.resources
+C:\Users\udays\Desktop\ItemTracker\ClassDemo\obj\Debug\ClassDemo.csproj.GenerateResource.Cache
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\ApplicationInsights.config
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\ClassDemo.dll.config
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\ClassDemo.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\ClassDemo.pdb
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\EntityFramework.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\EntityFramework.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\obj\Debug\ClassDemo.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\obj\Debug\ClassDemo.pdb
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\GoogleAnalyticsTracker.Core.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\GoogleAnalyticsTracker.Owin.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.Owin.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Owin.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.Owin.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\System.Web.Http.Common.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\System.Web.Http.Common.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\obj\Debug\ClassDemo.Migrations.role.resources
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\obj\Debug\ClassDemo.csproj.GenerateResource.Cache
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\obj\Debug\ClassDemo.Migrations.role1.resources
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\ITHit.WebDAV.Server.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\ITHit.WebDAV.Server.Web.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\ITHit.WebDAV.Server.xml
+C:\Users\udays\Desktop\Tracker_v1\ItemTracker_V1.0 - Copy\ClassDemo\bin\ITHit.WebDAV.Server.Web.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\ApplicationInsights.config
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\ClassDemo.dll.config
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\ClassDemo.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\ClassDemo.pdb
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\EntityFramework.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\GoogleAnalyticsTracker.Core.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\GoogleAnalyticsTracker.Owin.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\ITHit.WebDAV.Server.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\ITHit.WebDAV.Server.Web.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.Owin.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Owin.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\System.Web.Http.Common.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\EntityFramework.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\ITHit.WebDAV.Server.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\ITHit.WebDAV.Server.Web.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.Owin.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\bin\System.Web.Http.Common.xml
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\obj\Debug\ClassDemo.dll
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\obj\Debug\ClassDemo.pdb
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\obj\Debug\ClassDemo.Migrations.initial.resources
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\obj\Debug\ClassDemo.csproj.GenerateResource.Cache
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\obj\Debug\ClassDemo.Migrations.cat.resources
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\obj\Debug\ClassDemo.Migrations.cati.resources
+C:\Users\udays\Desktop\Tracker_v1\sample\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\ApplicationInsights.config
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\ClassDemo.dll.config
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\ClassDemo.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\ClassDemo.pdb
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\EntityFramework.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\GoogleAnalyticsTracker.Core.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\GoogleAnalyticsTracker.Owin.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\ITHit.WebDAV.Server.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\ITHit.WebDAV.Server.Web.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Owin.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\System.Web.Http.Common.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\EntityFramework.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\ITHit.WebDAV.Server.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\ITHit.WebDAV.Server.Web.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\bin\System.Web.Http.Common.xml
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.Migrations.initial.resources
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.Migrations.cat.resources
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.Migrations.cati.resources
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.csproj.GenerateResource.Cache
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.dll
+C:\Users\udays\Desktop\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.pdb
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\obj\Debug\ClassDemo.Migrations.initial.resources
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\obj\Debug\ClassDemo.Migrations.cat.resources
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\obj\Debug\ClassDemo.Migrations.cati.resources
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\obj\Debug\ClassDemo.csproj.GenerateResource.Cache
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\ApplicationInsights.config
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\ClassDemo.dll.config
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\ClassDemo.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\ClassDemo.pdb
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\EntityFramework.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\GoogleAnalyticsTracker.Core.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\GoogleAnalyticsTracker.Owin.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\ITHit.WebDAV.Server.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\ITHit.WebDAV.Server.Web.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.Owin.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Owin.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\System.Web.Http.Common.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\EntityFramework.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\ITHit.WebDAV.Server.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\ITHit.WebDAV.Server.Web.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.Owin.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\bin\System.Web.Http.Common.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\obj\Debug\ClassDemo.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0 - Copy\ClassDemo\obj\Debug\ClassDemo.pdb
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\ApplicationInsights.config
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\ClassDemo.dll.config
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\ClassDemo.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\ClassDemo.pdb
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\EntityFramework.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\GoogleAnalyticsTracker.Core.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\GoogleAnalyticsTracker.Owin.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\ITHit.WebDAV.Server.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\ITHit.WebDAV.Server.Web.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Owin.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\System.Web.Http.Common.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\EntityFramework.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\ITHit.WebDAV.Server.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\ITHit.WebDAV.Server.Web.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\bin\System.Web.Http.Common.xml
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.Migrations.initial.resources
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.Migrations.cat.resources
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.Migrations.cati.resources
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.csproj.GenerateResource.Cache
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.dll
+C:\Users\udays\Desktop\V2\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.pdb
+D:\projects\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+D:\projects\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+D:\projects\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\obj\Debug\ClassDemo.pdb
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\ApplicationInsights.config
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\ClassDemo.dll.config
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\ClassDemo.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\ClassDemo.pdb
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\EntityFramework.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\EntityFramework.SqlServer.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\ERP.Project.Data.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\GoogleAnalyticsTracker.Core.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\GoogleAnalyticsTracker.Owin.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\ITHit.WebDAV.Server.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\ITHit.WebDAV.Server.Web.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Owin.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\System.Configuration.ConfigurationManager.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\System.Diagnostics.DiagnosticSource.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\System.Web.Http.Common.dll
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\ERP.Project.Data.pdb
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\ERP.Project.Data.dll.config
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\EntityFramework.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\EntityFramework.SqlServer.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\ITHit.WebDAV.Server.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\ITHit.WebDAV.Server.Web.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\System.Diagnostics.DiagnosticSource.xml
+D:\projects\ItemTracker_V2.0\ClassDemo\bin\System.Web.Http.Common.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\ApplicationInsights.config
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\ClassDemo.dll.config
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\ClassDemo.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\ClassDemo.pdb
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\EntityFramework.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\ERP.Project.Data.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\GoogleAnalyticsTracker.Core.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\GoogleAnalyticsTracker.Owin.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\ITHit.WebDAV.Server.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\ITHit.WebDAV.Server.Web.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.Owin.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Owin.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\System.Web.Http.Common.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\ERP.Project.Data.pdb
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\ERP.Project.Data.dll.config
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\EntityFramework.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\ITHit.WebDAV.Server.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\ITHit.WebDAV.Server.Web.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.Owin.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\bin\System.Web.Http.Common.xml
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\obj\Debug\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\obj\Debug\ClassDemo.dll
+C:\Users\udays\Desktop\ItemTracker_V3.0\ClassDemo\obj\Debug\ClassDemo.pdb

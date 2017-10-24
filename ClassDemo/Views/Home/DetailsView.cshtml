@@ -1,0 +1,122 @@
+﻿@model ERP.Project.Data.Models.TrackerItem
+@using ERP.Project.Data.Models;
+
+@{
+    ViewBag.Title = "DetailsView";
+}
+
+<h2>DetailsView</h2>
+<fieldset>
+    <legend>Item details</legend>
+    @using (Html.BeginForm("DetailsView", "Home", FormMethod.Post, new { id = Model.ItemId, enctype = "multipart/form-data" }))
+            {
+       
+    <div class="container">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Item ID:</td>
+                    <td>@Html.DisplayFor(m => m.ItemId)</td>
+                    <td></td>
+                    <td></td>
+                    <td>Project Name</td>
+                    <td>@Html.DisplayTextFor(m => m.project.ProjectName)</td>
+                </tr>
+                <tr>
+                    <td>Item Category:</td>
+                    <td>@Html.DisplayTextFor(m => m.ItemCategory.CategoryName)</td>
+                    <td></td>
+                    <td></td>
+                    <td>Item type:</td>
+                    <td>@Html.DisplayTextFor(m => m.ItemType.ItemName)</td>
+                </tr>
+                <tr>
+                    <td>Item Priority:</td>
+                    <td>@Html.DisplayTextFor(m => m.ItemPriority.PriorityName)</td>
+                    <td></td>
+                    <td></td>
+                    <td>Item Status:</td>
+                    <td>@Html.DisplayTextFor(m => m.ItemStatus.ItemStatusName)</td>
+                </tr>
+                <tr>
+                    <td>Item Summary:</td>
+                    <td>@Html.DisplayTextFor(m => m.ItemSummary)</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Created By:</td>
+                    <td>@Html.DisplayTextFor(m => m.CreatedBy)</td>
+                    <td>Created Date:</td>
+                    <td>@Html.DisplayTextFor(m => m.ItemCreatedDate)</td>
+                    <td>Parent ID:</td>
+                    <td>@Html.DisplayTextFor(m => m.ParentId)</td>
+                </tr>
+                <tr>
+                    <td>Assigned To:</td>
+                    <td>@Html.DisplayTextFor(m => m.AssignedTo)</td> 
+                    <td>Assigned Date:</td>
+                    <td>@Html.DisplayTextFor(m => m.AssignedDate)</td>
+                    <td>End Date:</td>
+                    <td>@Html.DisplayTextFor(m => m.ItemEndDate)</td>
+                </tr>
+                <tr>
+                    <td>Owner :</td>
+                    <td>@Html.DisplayTextFor(m => m.Owner)</td>
+                    <td>Work Completed in %:</td>
+                    <td>@Html.DisplayTextFor(m => m.WorkCompleted)</td>
+                    <td>Resolved Date:</td>
+                    <td>@Html.DisplayTextFor(m => m.ResolvedDate)</td>
+                </tr>
+                <tr>
+                    <td>Impact:</td>
+                    <td>@Html.DisplayTextFor(m => m.Impact)</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Resolution:</td>
+                    <td>@Html.DisplayTextFor(m => m.Resolution)</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="col-lg-6 col-lg-offset-5">
+            <img src="@Url.Content(string.Format("~/Content/upload_attachements/{0}",Model.AttachmentPath))" height="150" width="150" />
+        </p>
+    </div>
+                <br />
+        <div class="container">
+            <div class="col-lg-5"></div>
+            <div class="col-lg-3">
+                <p class="btn btn-default">@Html.ActionLink("Edit", "Edit", new { ID = Model.ItemId })</p>
+
+                <p class="btn btn-default"> @Html.ActionLink("Back", "ItemsList")</p>
+            </div>
+            <div class="col-lg-4"></div>
+        </div>
+    }
+</fieldset>
