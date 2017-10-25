@@ -12,10 +12,7 @@ namespace ClassDemo.Controllers
         {
             public override void OnActionExecuting(ActionExecutingContext context)
             {
-                base.OnActionExecuting(context);
-                HttpSessionStateBase session = context.HttpContext.Session;
-
-                if (session.IsNewSession || context.HttpContext.Session["Authorize"] == null)
+                if (context.HttpContext.Session["Authorize"] == null)
                 {
                     context.HttpContext.Session["Authorize"] = 0;
                 }
@@ -34,7 +31,6 @@ namespace ClassDemo.Controllers
                 }
                 if (ID == 1)
                 {
-                    context.HttpContext.Session["Authorize"] = 1;
                     var Action = context.ActionDescriptor.ActionName;
                     if (Action == "About" || Action == "Index" || Action == "Contact" || Action == "ItemsList" || Action == "DetailsView" || Action == "Login" || Action == "LogOut" || Action== "Details")
                     {
@@ -48,7 +44,6 @@ namespace ClassDemo.Controllers
                 if (ID == 2)
                 {
                     var Action = context.ActionDescriptor.ActionName;
-                    context.HttpContext.Session["Authorize"] = 2;
                 }
                 else
                 {
@@ -57,12 +52,9 @@ namespace ClassDemo.Controllers
             }
             public override void OnActionExecuted(ActionExecutedContext filterContext)
             {
-                //filterContext=
-                base.OnActionExecuted(filterContext);
+                
                 var result = filterContext.Result as ViewResult;
-                HttpSessionStateBase session = filterContext.HttpContext.Session;
-
-                if (session.IsNewSession || filterContext.HttpContext.Session["Authorize"] == null)
+                if (filterContext.HttpContext.Session["Authorize"] == null)
                 {
                     filterContext.HttpContext.Session["Authorize"] = 0;
                 }
